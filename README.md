@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Flávio Glaydson, sou estudante do curso de Sistema de Informação - UFRN 👋
 
 <!--
 **flavioglaydson/flavioglaydson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
